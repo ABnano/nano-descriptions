@@ -1,5 +1,4 @@
 ﻿fnames,conc_solution,solvent_glyc,pressure,time,zz,"xy",C,R
-p1_1_5mgml_0002,0.00001305,"10% glycerol, 5%ethanol, 85% water",100,0.5,(-5 nm * 15 nm),2.0 μm*2.0 μm,512,1024
 p1_1_5mgml_0003,0.00001305,"10% glycerol, 5%ethanol, 85% water",100,0.5,(-5 nm * 15 nm),2.0 μm*2.0 μm,512,1024
 p1_1_5mgml_0004,0.00001305,"10% glycerol, 5%ethanol, 85% water",100,0.5,(-5 nm * 15 nm),2.0 μm*2.0 μm,512,1024
 p1_1_5mgml_0005,0.00001305,"10% glycerol, 5%ethanol, 85% water",100,0.5,(-5 nm * 15 nm),2.0 μm*2.0 μm,512,1024
