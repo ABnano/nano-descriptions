@@ -1,0 +1,39 @@
+﻿fnames,conc_solution,solvent_glyc,pressure,time,zz,"xy",C,R
+p1_1_5mgml_0003,0.00001305,"10% glycerol, 5%ethanol, 85% water",100,0.5,(-5 nm * 15 nm),2.0 μm*2.0 μm,512,1024
+p1_1_5mgml_0004,0.00001305,"10% glycerol, 5%ethanol, 85% water",100,0.5,(-5 nm * 15 nm),2.0 μm*2.0 μm,512,1024
+p1_1_5mgml_0005,0.00001305,"10% glycerol, 5%ethanol, 85% water",100,0.5,(-5 nm * 15 nm),2.0 μm*2.0 μm,512,1024
+p1_2_5mgml_0002,0.00001305,"10% glycerol, 5%ethanol, 85% water",100,1.5,(-25 nm * 25 nm),3.6 μm*3.6 μm,512,1024
+p1_2_5mgml_0003,0.00001305,"10% glycerol, 5%ethanol, 85% water",100,1.5,(-25 nm * 25 nm),3.6 μm*3.6 μm,512,1024
+p1_2_5mgml_0004,0.00001305,"10% glycerol, 5%ethanol, 85% water",100,1.5,(-25 nm * 25 nm),3.6 μm*3.6 μm,512,1024
+p1_2_5mgml_0005,0.00001305,"10% glycerol, 5%ethanol, 85% water",100,1.5,(-25 nm * 25 nm),3.6 μm*3.6 μm,512,1024
+p2_2_5mgml_0003,0.00001305,"10% glycerol, 5%ethanol, 85% water",100,0.05,(-10 nm * 10 nm),1.2 μm*1.2 μm,512,1024
+p2_2_5mgml_0004,0.00001305,"10% glycerol, 5%ethanol, 85% water",100,0.05,(-10 nm * 10 nm),1.2 μm*1.2 μm,512,1024
+p2_2_5mgml_0005,0.00001305,"10% glycerol, 5%ethanol, 85% water",100,0.05,(-10 nm * 10 nm),1.2 μm*1.2 μm,512,1024
+p2_2_5mgml_0006,0.00001305,"10% glycerol, 5%ethanol, 85% water",100,0.05,(-10 nm * 10 nm),1.2 μm*1.2 μm,512,1024
+p4_5mgml_0002,0.00001305,"10% glycerol, 5%ethanol, 85% water",10,0.05,(-10 nm * 10 nm),1.0 μm*1.0 μm,512,1024
+p4_5mgml_0003,0.00001305,"10% glycerol, 5%ethanol, 85% water",10,0.05,(-10 nm * 10 nm),1.0 μm*1.0 μm,512,1024
+p4_5mgml_0004,0.00001305,"10% glycerol, 5%ethanol, 85% water",10,0.05,(-10 nm * 10 nm),1.0 μm*1.0 μm,512,1024
+p4_5mgml_0005,0.00001305,"10% glycerol, 5%ethanol, 85% water",10,0.05,(-10 nm * 10 nm),1.0 μm*1.0 μm,512,1024
+p100037,0.00000261,"10% glycerol, 5%ethanol, 85% water",100,0.1,(-15 nm * 15 nm),1.9 μm*1.9 μm,512,512
+p100035,0.00000261,"10% glycerol, 5%ethanol, 85% water",100,0.1,(-10 nm * 20 nm),2.06 μm*2.06 μm,512,512
+p100033,0.00000261,"10% glycerol, 5%ethanol, 85% water",100,0.1,(-10 nm * 20 nm),2.04 μm*2.04 μm,512,512
+p100025,0.00000261,"10% glycerol, 5%ethanol, 85% water",100,0.1,"(-10 nm * 20 nm)",1.74μm*1.74 μm,512,512
+p100031,0.00000261,"10% glycerol, 5%ethanol, 85% water",100,0.1,(-5 nm * 25 nm),2.03μm*2.03 μm,512,512
+p90035,0.00001305,"10% glycerol, 5%ethanol, 85% water",100,0.1,"(-10 nm * 20  nm)",2 μm*2.0 μm,512,512
+p90031,0.00001305,"10% glycerol, 5%ethanol, 85% water",100,0.1,(-10 nm * 30 nm),2 μm*2.0 μm,512,512
+p90024,0.00001305,"10% glycerol, 5%ethanol, 85% water",100,0.1,(-10 nm * 30 nm),2.2 μm*2.20 μm,512,512
+p90029,0.00001305,"10% glycerol, 5%ethanol, 85% water",100,0.1,(-10 nm * 30 nm),2.2 μm*2.20 μm,512,512
+P70004,0.00000261,"10% glycerol, 5%ethanol, 85% water",50,0.1,(-5 nm * 25 nm),1.15 μm*1.15 μm,512,1024
+P70005,0.00000261,"10% glycerol, 5%ethanol, 85% water",140,1.325,(-5 nm  * 25 nm),2.5 μm*2.5 μm,512,1024
+P70006,0.00000261,"10% glycerol, 5%ethanol, 85% water",410,5,(-5 nm * 30 nm),5 μm*5 μm,512,1024
+P70008,0.00000261,"10% glycerol, 5%ethanol, 85% water",300,0.1,(-5 nm * 21 nm),1.8 μm*1.8 μm,512,1024
+P7_10006,0.00000261,"10% glycerol, 5%ethanol, 85% water",50,0.1,(-10 nm * 20 nm),1.5 μm*1.5 μm,512,1024
+P7_10007,0.00000261,"10% glycerol, 5%ethanol, 85% water",140,1.325,(-20 nm * 30 nm),2.6 μm*2.6μm,512,1024
+P7_10008,0.00000261,"10% glycerol, 5%ethanol, 85% water",140,5,(-5 nm * 15 nm),2.6 μm*2.6μm,512,1024
+P7_10009,0.00000261,"10% glycerol, 5%ethanol, 85% water",410,0.1,(-15 nm * 15 nm),2.6 μm*2.6μm,512,1024
+P7_10010,0.00000261,"10% glycerol, 5%ethanol, 85% water",320,3.775,(-5 nm * 25 nm),3.5 μm*3.5μm,512,1024
+P7_10011,0.00000261,"10% glycerol, 5%ethanol, 85% water",500,5,(-10 nm * 30 nm),4 μm*4μm,512,1024
+p10002,0.00001305,"30% glycerol, 5%ethanol, 65% water",0,0.5,"(-10 nm * 20 nm)",7 μm*7μm,512,1024
+p10006,0.00001305,"30% glycerol, 5%ethanol, 65% water",0,1,"(-5 nm * 25 nm)",6 μm*6μm,512,1024
+p50003,0.00001305,"30% glycerol, 5%ethanol, 65% water",100,1,"(-10 nm* 20 nm)",7 μm*7μm,512,1024
+p50006,0.00001305,"30% glycerol, 5%ethanol, 65% water",100,2,"(-15 nm *25 nm)",7.9 μm*7.9 μm,512,1024
